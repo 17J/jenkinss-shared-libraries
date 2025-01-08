@@ -1,6 +1,6 @@
 def call(String Giturl, String Gitbranch){
                 echo 'Github Code Checkout'
-                git branch: ${Gitbranch}", changelog: false, poll: false, url: "${Giturl}"
+                git branch: "${Gitbranch}",  url: "${Giturl}"
                 echo "GitHub Code Fetch"
 }
   
