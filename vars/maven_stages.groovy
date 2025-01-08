@@ -1,3 +1,3 @@
 def call(String stages){
-    sh 'mvn ${stages}"'
+    sh "mvn ${stages}"
 }
