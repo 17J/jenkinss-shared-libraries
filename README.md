@@ -1,4 +1,4 @@
-# Jenkins Shared Library
+# Jenkins Shared Library Samples
 
 This repository contains a collection of Groovy scripts that can be used to enhance your Jenkins pipelines.
 
